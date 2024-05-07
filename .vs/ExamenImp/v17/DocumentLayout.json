@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Migrations\\20240507184946_ghodbeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen.Infrastructure\\Migrations\\20240507184946_ghodbeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.applicationcore\\domain\\banque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\banque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.applicationcore\\domain\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.infrastructure\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.infrastructure\\configurations\\compteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\configurations\\compteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.infrastructure\\configurations\\transactiontransferconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\configurations\\transactiontransferconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.applicationcore\\domain\\transactionretrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\transactionretrait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.applicationcore\\domain\\transactiontransfert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\transactiontransfert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.infrastructure\\configurations\\transactionretraitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\configurations\\transactionretraitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.infrastructure\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.applicationcore\\domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.applicationcore\\domain\\dab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\dab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.applicationcore\\domain\\typecompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\typecompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\downloads\\solutionvide\\examenimp\\examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240507184946_ghodbeny.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Migrations\\20240507184946_ghodbeny.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Migrations\\20240507184946_ghodbeny.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Migrations\\20240507184946_ghodbeny.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Migrations\\20240507184946_ghodbeny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:49:46.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionTransferConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Configurations\\TransactionTransferConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\TransactionTransferConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Configurations\\TransactionTransferConfiguration.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Configurations\\TransactionTransferConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:22:05.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionRetrait.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\TransactionRetrait.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\TransactionRetrait.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\TransactionRetrait.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\TransactionRetrait.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:04:24.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamenContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\ExamenContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\ExamenContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\ExamenContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\ExamenContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA8wCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:10:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionTransfert.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\TransactionTransfert.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\TransactionTransfert.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\TransactionTransfert.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\TransactionTransfert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:02:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionRetraitConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Configurations\\TransactionRetraitConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\TransactionRetraitConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Configurations\\TransactionRetraitConfiguration.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Configurations\\TransactionRetraitConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:17:49.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:52:01.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\Transaction.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Transaction.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\Transaction.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Transaction.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:00:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compte.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\Compte.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Compte.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\Compte.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Compte.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:12:03.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banque.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\Banque.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Banque.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\Banque.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Banque.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:57:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Configurations\\CompteConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\CompteConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.Infrastructure\\Configurations\\CompteConfiguration.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Configurations\\CompteConfiguration.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:25:59.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAB.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\DAB.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\DAB.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\DAB.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\DAB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:00:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TypeCompte.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\TypeCompte.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\TypeCompte.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Domain\\TypeCompte.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\TypeCompte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:59:21.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:11:07.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\SolutionVide\\ExamenImp\\Examen.WEB\\Program.cs",
+              "RelativeToolTip": "Examen.WEB\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:10:59.332Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
